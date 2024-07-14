@@ -1,0 +1,1 @@
+This notebook demonstrates how to preprocess numeric and categorical data, perform feature selection, make predictions with a stacking model, and fine-tune model parameters using Grid Search. The dataset used is from the Kaggle competition, available at https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
