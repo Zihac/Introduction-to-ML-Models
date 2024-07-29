@@ -4,6 +4,9 @@ Notebook `house-price-prediction-begining.ipynb` demonstrates:
 3. how to make predictions with a stacking model
 4. how to fine-tune model parameters using Grid Search. 
 
+Notebook `House Price Prediction Pipeline` demonstrates:
+How to achieve the above steps 1-4 using Pipelines.
+
 The dataset used is from the Kaggle competition, available at https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data.
 
 I recommend opening my notebook on https://nbviewer.org/ for full visibility, as GitHub may truncate the code display. 
