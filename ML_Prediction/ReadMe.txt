@@ -1,4 +1,4 @@
-This notebook demonstrates:
+Notebook `house-price-prediction-begining.ipynb` demonstrates:
 1. how to preprocess numeric and categorical data
 2. how to perform feature selection
 3. how to make predictions with a stacking model
