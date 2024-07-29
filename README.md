@@ -9,5 +9,6 @@ Notebooks under this section show
 2. how to perform feature selection
 3. how to make predictions with a stacking model
 4. how to fine-tune model parameters using Grid Search
+
 The dataset used is from the Kaggle competition, available at https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data.
 
